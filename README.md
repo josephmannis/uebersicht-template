@@ -8,11 +8,14 @@ All of the possible default functions are included in `index.jsx`. These are pul
 
 
 ### Setup
+
 1. Clone the repository. Into your Übersicht widgets folder.
 2. Update `widget.json` with your information.
 3. Update `package.json` with your information.
-4. Quit and re-open Übersicht.
-5. Your widget should be running.
+4. Run `yarn` to install dependencies.
+5. Quit and re-open Übersicht.
+
+Your widget should be running. 💵
 
 
 ### Distribution
