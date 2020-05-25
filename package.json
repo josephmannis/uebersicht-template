@@ -1,9 +1,9 @@
 {
-  "name": "name",
+  "name": "uebersicht-template.widget",
   "version": "1.0.0",
-  "description": "An Uebersicht widget",
+  "description": "An Uebersicht widget template",
   "main": "index.jsx",
-  "author": "Author",
+  "author": "Joe Annis",
   "license": "MIT",
   "private": true,
   "devDependencies": {
